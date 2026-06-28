@@ -2,7 +2,6 @@ package com.peknight.scodec.bits.syntax
 
 import com.peknight.scodec.bits
 import com.peknight.scodec.bits.bigint.fromUnsignedBytes
-import com.peknight.scodec.bits.syntax.ByteVectorSyntaxPlatform
 import scodec.bits.ByteVector
 
 trait ByteVectorSyntax extends ByteVectorSyntaxPlatform:
